@@ -1,5 +1,5 @@
 ## Assignment 6 - Prime Factors
-
+https://repl.it/@BrentLaden/SpatialFreshParticles#main.py
 ### Overview
 
 Given a somewhat large number, determine if it is prime or if it can be factored. If it can be factored print out the prime factors.
@@ -23,4 +23,7 @@ Number 4: 72490732415291 - Factors: 249089 * 147503 * 1973
 ```
 |   #   | File                       | Description       |
 | :---: | ------------------| -----------------------------------|
-|   1   | [main.cpp](./main.cpp)     | solution file.   |
+|   1   | [get_factors.cpp](https://github.com/sora1441/4663-Cryptography/blob/master/Assignments/A06/get_factors.py)     | solution file.   |
+|2|[.replit](https://github.com/sora1441/4663-Cryptography/blob/master/Assignments/A06/.replit)|replit start file|
+|3|[in](https://github.com/sora1441/4663-Cryptography/blob/master/Assignments/A06/in)|test input file|
+|4|[out](https://github.com/sora1441/4663-Cryptography/blob/master/Assignments/A06/out)|test output file|
