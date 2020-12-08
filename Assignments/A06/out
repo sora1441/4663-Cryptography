@@ -1,0 +1,4 @@
+ python3 main.py input=in output=out
+Brent Laden
+Number 1 :  59  - Prime!
+Number 2 :  6587687  - Factors: [17, 479, 809]
